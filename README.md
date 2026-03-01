@@ -30,7 +30,6 @@ pip install -r requirements.txt
 ```
 
 Notes:
-- If you have a CUDA-capable GPU and want GPU builds, install the appropriate PyTorch wheel from https://pytorch.org/get-started/locally/.
 - The benchmark uses CPU DataLoader workers, so GPU is not required.
 
 ### 3) Run the notebook
