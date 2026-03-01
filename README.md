@@ -9,9 +9,17 @@ Download and install Python from https://www.python.org/downloads/.
 
 ### 1) Create and activate a virtual environment
 
+**Linux/macOS:**
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+python -m pip install --upgrade pip
+```
+
+**Windows (Command Prompt):**
+```cmd
+python -m venv .venv
+.venv\Scripts\activate
 python -m pip install --upgrade pip
 ```
 
