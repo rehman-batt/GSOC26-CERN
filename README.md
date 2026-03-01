@@ -1,4 +1,4 @@
-# PyTorch DataLoader Microbenchmark
+# PyTorch DataLoader Benchmark
 
 This repo contains a notebook that generates a synthetic dataset and benchmarks PyTorch DataLoader throughput and scaling efficiency.
 
